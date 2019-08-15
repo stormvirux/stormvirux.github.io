@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thaha Muhammed | Thaha Mohammed</title>
+    <link>https://stormvirux.github.io/authors/thaha-muhammed/</link>
+      <atom:link href="https://stormvirux.github.io/authors/thaha-muhammed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thaha Muhammed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Thaha Mohammed 2018--2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stormvirux.github.io/img/icon-192.png</url>
+      <title>Thaha Muhammed</title>
+      <link>https://stormvirux.github.io/authors/thaha-muhammed/</link>
+    </image>
+    
+    <item>
+      <title>HCDSR: A Hierarchical Clustered Fault Tolerant Routing Technique for IoT-Based Smart Societies</title>
+      <link>https://stormvirux.github.io/publication/mmaa-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mmaa-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPC-Smart Infrastructures: A Review and Outlook on Performance Analysis Methods and Tools</title>
+      <link>https://stormvirux.github.io/publication/mmaa-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mmaa-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Characteristics for Sparse Matrix-Vector Multiplication on GPUs</title>
+      <link>https://stormvirux.github.io/publication/amma-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/amma-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SelecWeb: A Software Tool for Automatic Selection of Web Frameworks</title>
+      <link>https://stormvirux.github.io/publication/mmas-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mmas-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SURAA: A Novel Method and Tool for Loadbalanced and Coalesced SpMV Computations on GPUs</title>
+      <link>https://stormvirux.github.io/publication/mmak-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mmak-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Reliable and Resilient IoT Based Smart City Applications</title>
+      <link>https://stormvirux.github.io/publication/mma-17/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mma-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities</title>
+      <link>https://stormvirux.github.io/publication/mmak-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mmak-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Fault Detection Strategies in Wireless Sensor Networks</title>
+      <link>https://stormvirux.github.io/publication/ms-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/ms-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

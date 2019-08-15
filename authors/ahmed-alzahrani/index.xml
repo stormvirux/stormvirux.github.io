@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Alzahrani | Thaha Mohammed</title>
+    <link>https://stormvirux.github.io/authors/ahmed-alzahrani/</link>
+      <atom:link href="https://stormvirux.github.io/authors/ahmed-alzahrani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Alzahrani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Thaha Mohammed 2018--2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stormvirux.github.io/img/icon-192.png</url>
+      <title>Ahmed Alzahrani</title>
+      <link>https://stormvirux.github.io/authors/ahmed-alzahrani/</link>
+    </image>
+    
+    <item>
+      <title>HCDSR: A Hierarchical Clustered Fault Tolerant Routing Technique for IoT-Based Smart Societies</title>
+      <link>https://stormvirux.github.io/publication/mmaa-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/publication/mmaa-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
