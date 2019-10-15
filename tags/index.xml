@@ -13,6 +13,38 @@
     </image>
     
     <item>
+      <title>analysis</title>
+      <link>https://stormvirux.github.io/tags/analysis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://stormvirux.github.io/tags/cloud/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coalesced access</title>
+      <link>https://stormvirux.github.io/tags/coalesced-access/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/coalesced-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energy</title>
+      <link>https://stormvirux.github.io/tags/energy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fault detection</title>
       <link>https://stormvirux.github.io/tags/fault-detection/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -49,54 +81,6 @@
       <link>https://stormvirux.github.io/tags/iot/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SpMV</title>
-      <link>https://stormvirux.github.io/tags/spmv/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/spmv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WSN</title>
-      <link>https://stormvirux.github.io/tags/wsn/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/wsn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>analysis</title>
-      <link>https://stormvirux.github.io/tags/analysis/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cloud</title>
-      <link>https://stormvirux.github.io/tags/cloud/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coalesced access</title>
-      <link>https://stormvirux.github.io/tags/coalesced-access/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/coalesced-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>energy</title>
-      <link>https://stormvirux.github.io/tags/energy/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/energy/</guid>
       <description></description>
     </item>
     
@@ -157,10 +141,26 @@
     </item>
     
     <item>
+      <title>SpMV</title>
+      <link>https://stormvirux.github.io/tags/spmv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/spmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tools</title>
       <link>https://stormvirux.github.io/tags/tools/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSN</title>
+      <link>https://stormvirux.github.io/tags/wsn/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/wsn/</guid>
       <description></description>
     </item>
     
@@ -193,14 +193,6 @@
       <link>https://stormvirux.github.io/tags/big-data/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/big-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>QoS</title>
-      <link>https://stormvirux.github.io/tags/qos/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/qos/</guid>
       <description></description>
     </item>
     
@@ -277,6 +269,14 @@
     </item>
     
     <item>
+      <title>QoS</title>
+      <link>https://stormvirux.github.io/tags/qos/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/qos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>survey</title>
       <link>https://stormvirux.github.io/tags/survey/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -285,18 +285,18 @@
     </item>
     
     <item>
-      <title>Quality of service</title>
-      <link>https://stormvirux.github.io/tags/quality-of-service/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/tags/quality-of-service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>faults</title>
       <link>https://stormvirux.github.io/tags/faults/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/faults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality of service</title>
+      <link>https://stormvirux.github.io/tags/quality-of-service/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://stormvirux.github.io/tags/quality-of-service/</guid>
       <description></description>
     </item>
     
