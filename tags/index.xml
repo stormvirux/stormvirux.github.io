@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Thaha Mohammed</title>
+    <title>Tags | Thaha Mohammmed</title>
     <link>https://stormvirux.github.io/tags/</link>
       <atom:link href="https://stormvirux.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>coalesced access</title>
+      <title>coalesced-access</title>
       <link>https://stormvirux.github.io/tags/coalesced-access/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/coalesced-access/</guid>
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Fault detection</title>
+      <title>Fault-detection</title>
       <link>https://stormvirux.github.io/tags/fault-detection/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/fault-detection/</guid>
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Fault tolerance</title>
+      <title>Fault-tolerance</title>
       <link>https://stormvirux.github.io/tags/fault-tolerance/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/fault-tolerance/</guid>
@@ -85,7 +85,7 @@
     </item>
     
     <item>
-      <title>iterative methods</title>
+      <title>iterative-methods</title>
       <link>https://stormvirux.github.io/tags/iterative-methods/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/iterative-methods/</guid>
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>load balancing</title>
+      <title>load-balancing</title>
       <link>https://stormvirux.github.io/tags/load-balancing/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/load-balancing/</guid>
@@ -133,7 +133,7 @@
     </item>
     
     <item>
-      <title>sparse matrix storage</title>
+      <title>sparse-matrix-storage</title>
       <link>https://stormvirux.github.io/tags/sparse-matrix-storage/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://stormvirux.github.io/tags/sparse-matrix-storage/</guid>
@@ -173,7 +173,7 @@
     </item>
     
     <item>
-      <title>mobile</title>
+      <title>Mobile</title>
       <link>https://stormvirux.github.io/tags/mobile/</link>
       <pubDate>Wed, 14 Aug 2019 14:39:36 +0300</pubDate>
       <guid>https://stormvirux.github.io/tags/mobile/</guid>
