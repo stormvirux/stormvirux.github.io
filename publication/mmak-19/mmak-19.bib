@@ -1,0 +1,15 @@
+@article{MMAK19,
+ abstract = {Sparse matrix-vector (SpMV) multiplication is a vital building block for numerous scientific and engineering applications. This paper proposes SURAA (translates to speed in arabic), a novel method for SpMV computations on graphics processing units (GPUs). The novelty lies in the way we group matrix rows into different segments, and adaptively schedule various segments to different types of kernels. The sparse matrix data structure is created by sorting the rows of the matrix on the basis of the nonzero elements per row (   n p r) and forming segments of equal size (containing approximately an equal number of nonzero elements per row) using the Freedman&ndash;Diaconis rule. The segments are assembled into three groups based on the mean     n p r     of the segments. For each group, we use multiple kernels to execute the group segments on different streams. Hence, the number of threads to execute each segment is adaptively chosen. Dynamic Parallelism available in Nvidia GPUs is utilized to execute the group containing segments with the largest mean     n p r, providing improved load balancing and coalesced memory access, and hence more efficient SpMV computations on GPUs. Therefore, SURAA minimizes the adverse effects of the     n p r     variance by uniformly distributing the load using equal sized segments. We implement the SURAA method as a tool and compare its performance with the de facto best commercial (cuSPARSE) and open source (CUSP, MAGMA) tools using widely used benchmarks comprising 26 high     n p r  v a r i a n c e     matrices from 13 diverse domains. SURAA outperforms the other tools by delivering 13.99x speedup on average. We believe that our approach provides a fundamental shift in addressing SpMV related challenges on GPUs including coalesced memory access, thread divergence, and load balancing, and is set to open new avenues for further improving SpMV performance in the future.},
+ author = {Muhammed, Thaha and Mehmood, Rashid and Albeshri, Aiiad and Katib, Iyad},
+ doi = {10.3390/app9050947},
+ issn = {2076-3417},
+ journal = {Applied Sciences},
+ number = {5},
+ pages = {947},
+ publisher = {Multidisciplinary Digital Publishing Institute},
+ title = {SURAA: A Novel Method and Tool for Loadbalanced and Coalesced SpMV Computations on GPUs},
+ url = {https://www.mdpi.com/2076-3417/9/5/947},
+ volume = {9},
+ year = {2019}
+}
+
