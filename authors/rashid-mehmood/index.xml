@@ -1,100 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rashid Mehmood | Thaha Mohammmed</title>
-    <link>https://users.aalto.fi/~mohammt1/authors/rashid-mehmood/</link>
-      <atom:link href="https://users.aalto.fi/~mohammt1/authors/rashid-mehmood/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rashid Mehmood</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Thaha Mohammed 2018--2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://users.aalto.fi/~mohammt1/img/icon-192.png</url>
-      <title>Rashid Mehmood</title>
-      <link>https://users.aalto.fi/~mohammt1/authors/rashid-mehmood/</link>
-    </image>
-    
-    <item>
-      <title>HCDSR: A Hierarchical Clustered Fault Tolerant Routing Technique for IoT-Based Smart Societies</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/mmaa-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/mmaa-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HPC-Smart Infrastructures: A Review and Outlook on Performance Analysis Methods and Tools</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/mmaa-20-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/mmaa-20-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance Characteristics for Sparse Matrix-Vector Multiplication on GPUs</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/amma-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/amma-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SelecWeb: A Software Tool for Automatic Selection of Web Frameworks</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/mmas-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/mmas-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fault detection and Fault Tolerance in WSN</title>
-      <link>https://users.aalto.fi/~mohammt1/project/wsn/</link>
-      <pubDate>Wed, 14 Aug 2019 13:39:21 +0300</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/project/wsn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novel Techniques for Large Sparse Linear Equation Systems</title>
-      <link>https://users.aalto.fi/~mohammt1/project/spmv/</link>
-      <pubDate>Wed, 14 Aug 2019 12:17:56 +0300</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/project/spmv/</guid>
-      <description>&lt;p&gt;Sparse Matrix-Vector multiplication (SpMV) is one of the key operations in linear algebra that lies at the heart of diverse domains such as scientific computing, engineering, economic modeling, and information retrieval, to name a few. They play a significant role in solving linear system of equations using iterative methods. Sparse Kernels are computational operations on matrices whose entries are mostly zero so that computations with and storage of these zero elements may be eliminated. The emergence of parallel architectures, especially GPU, while offering higher computational performance, has led to the redesign of existing algorithms to suit the architecture. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. Special SpMV must be designed using these structures to improve the performance on GPUs.&lt;/p&gt;
-&lt;p&gt;Implementation of parallel iterative solvers on GPU has numerous issues. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. The problems faced in implementing parallel sparse iterative solvers and converting sparse structures to GPU is as listed below:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Coalesced memory access to both the sparse matrix A and the vector y&lt;/li&gt;
-&lt;li&gt;Load balance among array threads and warps&lt;/li&gt;
-&lt;li&gt;Thread divergence among a warp of threads.&lt;/li&gt;
-&lt;li&gt;Performance variance based on the structure of the sparse matrices&lt;/li&gt;
-&lt;li&gt;The amount of memory access required for computations.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Depending upon the sparsity of the structure the performance of the matrices vary and issues such as coalesced memory access, load balancing among threads, and thread divergence are dependent upon the sparsity structure of the matrices. The sparse storage schemes that satisfy the above conditions does not necessarily satisfy these conditions for other matrices and hence there is a performance deterioration. The sparsity structure of the sparse matrices varies from matrix to matrix, and application domain to domain. The performance of the SpMV kernel is dependent upon the sparsity structure of the matrices. We can deduce that none of the sparse
-representation schemes are perpetually superior rather the SpMV performance depends upon the sparse representation and the choice of sparse representation is based on the sparsity structure. The GPU architecture used for SpMV computations and the thread-block-warp configuration of the SpMV kernel are two other factors that affect the performance of SpMV kernel on GPUs.&lt;/p&gt;
-&lt;p&gt;In this research, we propose a new adaptive schemes and techniques that dynamically uses the best possible storage format that gives the maximum performance depending upon the sparsity structure of the matrices. The idea is to have sparse storage scheme that dynamically satisfies load balancing, and coalesced memory access without thread divergence.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SURAA: A Novel Method and Tool for Loadbalanced and Coalesced SpMV Computations on GPUs</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/mmak-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/mmak-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enabling Reliable and Resilient IoT Based Smart City Applications</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/mma-17/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/mma-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities</title>
-      <link>https://users.aalto.fi/~mohammt1/publication/mmak-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://users.aalto.fi/~mohammt1/publication/mmak-18/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rashid Mehmood | Thaha Mohammmed</title><link>https://users.aalto.fi/~mohammt1/authors/rashid-mehmood/</link><atom:link href="https://users.aalto.fi/~mohammt1/authors/rashid-mehmood/index.xml" rel="self" type="application/rss+xml"/><description>Rashid Mehmood</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Thaha Mohammed 2018--2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://users.aalto.fi/~mohammt1/img/icon-192.png</url><title>Rashid Mehmood</title><link>https://users.aalto.fi/~mohammt1/authors/rashid-mehmood/</link></image><item><title>HCDSR: A Hierarchical Clustered Fault Tolerant Routing Technique for IoT-Based Smart Societies</title><link>https://users.aalto.fi/~mohammt1/publication/mmaa-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/mmaa-20/</guid><description/></item><item><title>HPC-Smart Infrastructures: A Review and Outlook on Performance Analysis Methods and Tools</title><link>https://users.aalto.fi/~mohammt1/publication/mmaa-20-a/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/mmaa-20-a/</guid><description/></item><item><title>Performance Characteristics for Sparse Matrix-Vector Multiplication on GPUs</title><link>https://users.aalto.fi/~mohammt1/publication/amma-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/amma-20/</guid><description/></item><item><title>SelecWeb: A Software Tool for Automatic Selection of Web Frameworks</title><link>https://users.aalto.fi/~mohammt1/publication/mmas-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/mmas-20/</guid><description/></item><item><title>Fault detection and Fault Tolerance in WSN</title><link>https://users.aalto.fi/~mohammt1/project/wsn/</link><pubDate>Wed, 14 Aug 2019 13:39:21 +0300</pubDate><guid>https://users.aalto.fi/~mohammt1/project/wsn/</guid><description/></item><item><title>Novel Techniques for Large Sparse Linear Equation Systems</title><link>https://users.aalto.fi/~mohammt1/project/spmv/</link><pubDate>Wed, 14 Aug 2019 12:17:56 +0300</pubDate><guid>https://users.aalto.fi/~mohammt1/project/spmv/</guid><description>&lt;p>Sparse Matrix-Vector multiplication (SpMV) is one of the key operations in linear algebra that lies at the heart of diverse domains such as scientific computing, engineering, economic modeling, and information retrieval, to name a few. They play a significant role in solving linear system of equations using iterative methods. Sparse Kernels are computational operations on matrices whose entries are mostly zero so that computations with and storage of these zero elements may be eliminated. The emergence of parallel architectures, especially GPU, while offering higher computational performance, has led to the redesign of existing algorithms to suit the architecture. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. Special SpMV must be designed using these structures to improve the performance on GPUs.&lt;/p>
+&lt;p>Implementation of parallel iterative solvers on GPU has numerous issues. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. The problems faced in implementing parallel sparse iterative solvers and converting sparse structures to GPU is as listed below:&lt;/p>
+&lt;ol>
+&lt;li>Coalesced memory access to both the sparse matrix A and the vector y&lt;/li>
+&lt;li>Load balance among array threads and warps&lt;/li>
+&lt;li>Thread divergence among a warp of threads.&lt;/li>
+&lt;li>Performance variance based on the structure of the sparse matrices&lt;/li>
+&lt;li>The amount of memory access required for computations.&lt;/li>
+&lt;/ol>
+&lt;p>Depending upon the sparsity of the structure the performance of the matrices vary and issues such as coalesced memory access, load balancing among threads, and thread divergence are dependent upon the sparsity structure of the matrices. The sparse storage schemes that satisfy the above conditions does not necessarily satisfy these conditions for other matrices and hence there is a performance deterioration. The sparsity structure of the sparse matrices varies from matrix to matrix, and application domain to domain. The performance of the SpMV kernel is dependent upon the sparsity structure of the matrices. We can deduce that none of the sparse
+representation schemes are perpetually superior rather the SpMV performance depends upon the sparse representation and the choice of sparse representation is based on the sparsity structure. The GPU architecture used for SpMV computations and the thread-block-warp configuration of the SpMV kernel are two other factors that affect the performance of SpMV kernel on GPUs.&lt;/p>
+&lt;p>In this research, we propose a new adaptive schemes and techniques that dynamically uses the best possible storage format that gives the maximum performance depending upon the sparsity structure of the matrices. The idea is to have sparse storage scheme that dynamically satisfies load balancing, and coalesced memory access without thread divergence.&lt;/p></description></item><item><title>SURAA: A Novel Method and Tool for Loadbalanced and Coalesced SpMV Computations on GPUs</title><link>https://users.aalto.fi/~mohammt1/publication/mmak-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/mmak-19/</guid><description/></item><item><title>Enabling Reliable and Resilient IoT Based Smart City Applications</title><link>https://users.aalto.fi/~mohammt1/publication/mma-17/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/mma-17/</guid><description/></item><item><title>UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities</title><link>https://users.aalto.fi/~mohammt1/publication/mmak-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://users.aalto.fi/~mohammt1/publication/mmak-18/</guid><description/></item></channel></rss>
