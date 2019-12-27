@@ -1,285 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Thaha Mohammmed</title>
-    <link>https://stormvirux.github.io/</link>
-      <atom:link href="https://stormvirux.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Thaha Mohammmed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Thaha Mohammed 2018--2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://stormvirux.github.io/img/icon-192.png</url>
-      <title>Thaha Mohammmed</title>
-      <link>https://stormvirux.github.io/</link>
-    </image>
-    
-    <item>
-      <title>HCDSR: A Hierarchical Clustered Fault Tolerant Routing Technique for IoT-Based Smart Societies</title>
-      <link>https://stormvirux.github.io/publication/mmaa-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/mmaa-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HPC-Smart Infrastructures: A Review and Outlook on Performance Analysis Methods and Tools</title>
-      <link>https://stormvirux.github.io/publication/mmaa-20-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/mmaa-20-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performance Characteristics for Sparse Matrix-Vector Multiplication on GPUs</title>
-      <link>https://stormvirux.github.io/publication/amma-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/amma-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SelecWeb: A Software Tool for Automatic Selection of Web Frameworks</title>
-      <link>https://stormvirux.github.io/publication/mmas-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/mmas-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proofs</title>
-      <link>https://stormvirux.github.io/post/proofs/</link>
-      <pubDate>Mon, 14 Oct 2019 17:03:46 +0300</pubDate>
-      <guid>https://stormvirux.github.io/post/proofs/</guid>
-      <description>&lt;p&gt;Stolen and adapted from &lt;a href=&#34;http://jwilson.coe.uga.edu/emt668/emat6680.f99/challen/proof/proof.html&#34;&gt;Joe Wilson&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If the proof of a theorem is not immediately apparent, it may be because you are trying the wrong approach. Below are some effective methods of proof that might aim you in the right direction.&lt;/p&gt;
-&lt;center&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Name&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Statement&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by obviousness&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;The proof is so clear that it need not be mentioned.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by general agreement&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;All in favor?&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by imagination&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Well, we&#39;ll pretend it&#39;s true&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by convenience&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;It would be very nice if it were true, so&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by necessity&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;It had better be true, or the entire structure of mathematics would crumble to the ground.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by plausibility&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;It sounds good, so it must be true.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by intimidation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Don&#39;t be stupid; of course it&#39;s true!&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by lack of sufficient time&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Because of the time constrait, I&#39;ll leave the proof to you.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by postponement&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;The proof for this is long and arduous, so it is given to you in the appendix.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by accident&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Hey, what have we here?!&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by insignificance&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Who really cares anyway?&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by mumbo-jumbo&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Mumbo-Jumbo&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by profanity&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;(example omitted)&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by definition&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;We define it to be true.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by tautology&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;It&#39;s true because it&#39;s true.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by plagarism&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;As we see on page 289,&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by lost reference&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;I know I saw it somewhere&amp;hellip;.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by calculus&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;This proof requires calculus, so we&#39;ll skip it.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by terror&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;When intimidation fails&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by lack of interest&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Does anyone really want to see this?&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by illegibility&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Illegibility&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by logic&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;If it is on the problem sheet, it must be true!&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by majority rule&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Only to be used if general agreement is impossible.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by clever variable choice&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Let A be the number such that this proof works&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by tessellation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;This proof is the same as the last.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by divine word&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;&amp;hellip;And the Lord said, &amp;lsquo;Let it be true,&amp;rsquo; and it was true.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by stubbornness&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;I don&#39;t care what you say- it is true.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by simplification&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;This proof reduced to the statement 1 + 1 = 2.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by hasty generalization&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Well, it works for 17, so it works for all reals.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by deception&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Now everyone turn their backs&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by supplication&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Oh please, let it be true.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by poor analogy&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Well, it&#39;s just like&amp;hellip;&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by avoidance&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Limit of proof by postponement as it approaches infinity&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by design&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;If it&#39;s not true in today&#39;s math, invent a new system in which it is.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by authority&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;Well, Don Knuth says it&#39;s true, so it must be!&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by intuition&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;I have this gut feeling.&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Proof by Latex&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;em&gt;The typesetting is so beautiful that it is proved&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/center&gt;</description>
-    </item>
-    
-    <item>
-      <title>Computation Offloading to Fog Devices</title>
-      <link>https://stormvirux.github.io/project/iot/</link>
-      <pubDate>Wed, 14 Aug 2019 14:39:36 +0300</pubDate>
-      <guid>https://stormvirux.github.io/project/iot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fault detection and Fault Tolerance in WSN</title>
-      <link>https://stormvirux.github.io/project/wsn/</link>
-      <pubDate>Wed, 14 Aug 2019 13:39:21 +0300</pubDate>
-      <guid>https://stormvirux.github.io/project/wsn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novel Techniques for Large Sparse Linear Equation Systems</title>
-      <link>https://stormvirux.github.io/project/spmv/</link>
-      <pubDate>Wed, 14 Aug 2019 12:17:56 +0300</pubDate>
-      <guid>https://stormvirux.github.io/project/spmv/</guid>
-      <description>&lt;p&gt;Sparse Matrix-Vector multiplication (SpMV) is one of the key operations in linear algebra that lies at the heart of diverse domains such as scientific computing, engineering, economic modeling, and information retrieval, to name a few. They play a significant role in solving linear system of equations using iterative methods. Sparse Kernels are computational operations on matrices whose entries are mostly zero so that computations with and storage of these zero elements may be eliminated. The emergence of parallel architectures, especially GPU, while offering higher computational performance, has led to the redesign of existing algorithms to suit the architecture. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. Special SpMV must be designed using these structures to improve the performance on GPUs.&lt;/p&gt;
-&lt;p&gt;Implementation of parallel iterative solvers on GPU has numerous issues. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. The problems faced in implementing parallel sparse iterative solvers and converting sparse structures to GPU is as listed below:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Coalesced memory access to both the sparse matrix A and the vector y&lt;/li&gt;
-&lt;li&gt;Load balance among array threads and warps&lt;/li&gt;
-&lt;li&gt;Thread divergence among a warp of threads.&lt;/li&gt;
-&lt;li&gt;Performance variance based on the structure of the sparse matrices&lt;/li&gt;
-&lt;li&gt;The amount of memory access required for computations.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Depending upon the sparsity of the structure the performance of the matrices vary and issues such as coalesced memory access, load balancing among threads, and thread divergence are dependent upon the sparsity structure of the matrices. The sparse storage schemes that satisfy the above conditions does not necessarily satisfy these conditions for other matrices and hence there is a performance deterioration. The sparsity structure of the sparse matrices varies from matrix to matrix, and application domain to domain. The performance of the SpMV kernel is dependent upon the sparsity structure of the matrices. We can deduce that none of the sparse
-representation schemes are perpetually superior rather the SpMV performance depends upon the sparse representation and the choice of sparse representation is based on the sparsity structure. The GPU architecture used for SpMV computations and the thread-block-warp configuration of the SpMV kernel are two other factors that affect the performance of SpMV kernel on GPUs.&lt;/p&gt;
-&lt;p&gt;In this research, we propose a new adaptive schemes and techniques that dynamically uses the best possible storage format that gives the maximum performance depending upon the sparsity structure of the matrices. The idea is to have sparse storage scheme that dynamically satisfies load balancing, and coalesced memory access without thread divergence.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SURAA: A Novel Method and Tool for Loadbalanced and Coalesced SpMV Computations on GPUs</title>
-      <link>https://stormvirux.github.io/publication/mmak-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/mmak-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enabling Reliable and Resilient IoT Based Smart City Applications</title>
-      <link>https://stormvirux.github.io/publication/mma-17/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/mma-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities</title>
-      <link>https://stormvirux.github.io/publication/mmak-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/mmak-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Analysis of Fault Detection Strategies in Wireless Sensor Networks</title>
-      <link>https://stormvirux.github.io/publication/ms-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://stormvirux.github.io/publication/ms-17/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thaha Mohammmed</title><link>https://stormvirux.github.io/</link><atom:link href="https://stormvirux.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Thaha Mohammmed</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © Thaha Mohammed 2018--2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><image><url>https://stormvirux.github.io/img/icon-192.png</url><title>Thaha Mohammmed</title><link>https://stormvirux.github.io/</link></image><item><title>HCDSR: A Hierarchical Clustered Fault Tolerant Routing Technique for IoT-Based Smart Societies</title><link>https://stormvirux.github.io/publication/mmaa-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/mmaa-20/</guid><description/></item><item><title>HPC-Smart Infrastructures: A Review and Outlook on Performance Analysis Methods and Tools</title><link>https://stormvirux.github.io/publication/mmaa-20-a/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/mmaa-20-a/</guid><description/></item><item><title>Performance Characteristics for Sparse Matrix-Vector Multiplication on GPUs</title><link>https://stormvirux.github.io/publication/amma-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/amma-20/</guid><description/></item><item><title>SelecWeb: A Software Tool for Automatic Selection of Web Frameworks</title><link>https://stormvirux.github.io/publication/mmas-20/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/mmas-20/</guid><description/></item><item><title>Proofs</title><link>https://stormvirux.github.io/post/proofs/</link><pubDate>Mon, 14 Oct 2019 17:03:46 +0300</pubDate><guid>https://stormvirux.github.io/post/proofs/</guid><description>&lt;p>Stolen and adapted from &lt;a href="http://jwilson.coe.uga.edu/emt668/emat6680.f99/challen/proof/proof.html">Joe Wilson&lt;/a>.&lt;/p>
+&lt;p>If the proof of a theorem is not immediately apparent, it may be because you are trying the wrong approach. Below are some effective methods of proof that might aim you in the right direction.&lt;/p>
+&lt;center>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th align="left">Name&lt;/th>
+&lt;th align="left">Statement&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td align="left">Proof by obviousness&lt;/td>
+&lt;td align="left">&lt;em>The proof is so clear that it need not be mentioned.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by general agreement&lt;/td>
+&lt;td align="left">&lt;em>All in favor?&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by imagination&lt;/td>
+&lt;td align="left">&lt;em>Well, we'll pretend it's true&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by convenience&lt;/td>
+&lt;td align="left">&lt;em>It would be very nice if it were true, so&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by necessity&lt;/td>
+&lt;td align="left">&lt;em>It had better be true, or the entire structure of mathematics would crumble to the ground.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by plausibility&lt;/td>
+&lt;td align="left">&lt;em>It sounds good, so it must be true.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by intimidation&lt;/td>
+&lt;td align="left">&lt;em>Don't be stupid; of course it's true!&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by lack of sufficient time&lt;/td>
+&lt;td align="left">&lt;em>Because of the time constrait, I'll leave the proof to you.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by postponement&lt;/td>
+&lt;td align="left">&lt;em>The proof for this is long and arduous, so it is given to you in the appendix.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by accident&lt;/td>
+&lt;td align="left">&lt;em>Hey, what have we here?!&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by insignificance&lt;/td>
+&lt;td align="left">&lt;em>Who really cares anyway?&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by mumbo-jumbo&lt;/td>
+&lt;td align="left">&lt;em>Mumbo-Jumbo&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by profanity&lt;/td>
+&lt;td align="left">&lt;em>(example omitted)&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by definition&lt;/td>
+&lt;td align="left">&lt;em>We define it to be true.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by tautology&lt;/td>
+&lt;td align="left">&lt;em>It's true because it's true.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by plagarism&lt;/td>
+&lt;td align="left">&lt;em>As we see on page 289,&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by lost reference&lt;/td>
+&lt;td align="left">&lt;em>I know I saw it somewhere&amp;hellip;.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by calculus&lt;/td>
+&lt;td align="left">&lt;em>This proof requires calculus, so we'll skip it.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by terror&lt;/td>
+&lt;td align="left">&lt;em>When intimidation fails&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by lack of interest&lt;/td>
+&lt;td align="left">&lt;em>Does anyone really want to see this?&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by illegibility&lt;/td>
+&lt;td align="left">&lt;em>Illegibility&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by logic&lt;/td>
+&lt;td align="left">&lt;em>If it is on the problem sheet, it must be true!&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by majority rule&lt;/td>
+&lt;td align="left">&lt;em>Only to be used if general agreement is impossible.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by clever variable choice&lt;/td>
+&lt;td align="left">&lt;em>Let A be the number such that this proof works&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by tessellation&lt;/td>
+&lt;td align="left">&lt;em>This proof is the same as the last.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by divine word&lt;/td>
+&lt;td align="left">&lt;em>&amp;hellip;And the Lord said, &amp;lsquo;Let it be true,&amp;rsquo; and it was true.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by stubbornness&lt;/td>
+&lt;td align="left">&lt;em>I don't care what you say- it is true.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by simplification&lt;/td>
+&lt;td align="left">&lt;em>This proof reduced to the statement 1 + 1 = 2.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by hasty generalization&lt;/td>
+&lt;td align="left">&lt;em>Well, it works for 17, so it works for all reals.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by deception&lt;/td>
+&lt;td align="left">&lt;em>Now everyone turn their backs&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by supplication&lt;/td>
+&lt;td align="left">&lt;em>Oh please, let it be true.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by poor analogy&lt;/td>
+&lt;td align="left">&lt;em>Well, it's just like&amp;hellip;&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by avoidance&lt;/td>
+&lt;td align="left">&lt;em>Limit of proof by postponement as it approaches infinity&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by design&lt;/td>
+&lt;td align="left">&lt;em>If it's not true in today's math, invent a new system in which it is.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by authority&lt;/td>
+&lt;td align="left">&lt;em>Well, Don Knuth says it's true, so it must be!&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by intuition&lt;/td>
+&lt;td align="left">&lt;em>I have this gut feeling.&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td align="left">Proof by Latex&lt;/td>
+&lt;td align="left">&lt;em>The typesetting is so beautiful that it is proved&lt;/em>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/center></description></item><item><title>Computation Offloading to Fog Devices</title><link>https://stormvirux.github.io/project/iot/</link><pubDate>Wed, 14 Aug 2019 14:39:36 +0300</pubDate><guid>https://stormvirux.github.io/project/iot/</guid><description/></item><item><title>Fault detection and Fault Tolerance in WSN</title><link>https://stormvirux.github.io/project/wsn/</link><pubDate>Wed, 14 Aug 2019 13:39:21 +0300</pubDate><guid>https://stormvirux.github.io/project/wsn/</guid><description/></item><item><title>Novel Techniques for Large Sparse Linear Equation Systems</title><link>https://stormvirux.github.io/project/spmv/</link><pubDate>Wed, 14 Aug 2019 12:17:56 +0300</pubDate><guid>https://stormvirux.github.io/project/spmv/</guid><description>&lt;p>Sparse Matrix-Vector multiplication (SpMV) is one of the key operations in linear algebra that lies at the heart of diverse domains such as scientific computing, engineering, economic modeling, and information retrieval, to name a few. They play a significant role in solving linear system of equations using iterative methods. Sparse Kernels are computational operations on matrices whose entries are mostly zero so that computations with and storage of these zero elements may be eliminated. The emergence of parallel architectures, especially GPU, while offering higher computational performance, has led to the redesign of existing algorithms to suit the architecture. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. Special SpMV must be designed using these structures to improve the performance on GPUs.&lt;/p>
+&lt;p>Implementation of parallel iterative solvers on GPU has numerous issues. Specialized storage structures are used to improve the performance of sparse SpMV. These structures have design issues for translating it to GPUs. The problems faced in implementing parallel sparse iterative solvers and converting sparse structures to GPU is as listed below:&lt;/p>
+&lt;ol>
+&lt;li>Coalesced memory access to both the sparse matrix A and the vector y&lt;/li>
+&lt;li>Load balance among array threads and warps&lt;/li>
+&lt;li>Thread divergence among a warp of threads.&lt;/li>
+&lt;li>Performance variance based on the structure of the sparse matrices&lt;/li>
+&lt;li>The amount of memory access required for computations.&lt;/li>
+&lt;/ol>
+&lt;p>Depending upon the sparsity of the structure the performance of the matrices vary and issues such as coalesced memory access, load balancing among threads, and thread divergence are dependent upon the sparsity structure of the matrices. The sparse storage schemes that satisfy the above conditions does not necessarily satisfy these conditions for other matrices and hence there is a performance deterioration. The sparsity structure of the sparse matrices varies from matrix to matrix, and application domain to domain. The performance of the SpMV kernel is dependent upon the sparsity structure of the matrices. We can deduce that none of the sparse
+representation schemes are perpetually superior rather the SpMV performance depends upon the sparse representation and the choice of sparse representation is based on the sparsity structure. The GPU architecture used for SpMV computations and the thread-block-warp configuration of the SpMV kernel are two other factors that affect the performance of SpMV kernel on GPUs.&lt;/p>
+&lt;p>In this research, we propose a new adaptive schemes and techniques that dynamically uses the best possible storage format that gives the maximum performance depending upon the sparsity structure of the matrices. The idea is to have sparse storage scheme that dynamically satisfies load balancing, and coalesced memory access without thread divergence.&lt;/p></description></item><item><title>SURAA: A Novel Method and Tool for Loadbalanced and Coalesced SpMV Computations on GPUs</title><link>https://stormvirux.github.io/publication/mmak-19/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/mmak-19/</guid><description/></item><item><title>Enabling Reliable and Resilient IoT Based Smart City Applications</title><link>https://stormvirux.github.io/publication/mma-17/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/mma-17/</guid><description/></item><item><title>UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities</title><link>https://stormvirux.github.io/publication/mmak-18/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/mmak-18/</guid><description/></item><item><title>An Analysis of Fault Detection Strategies in Wireless Sensor Networks</title><link>https://stormvirux.github.io/publication/ms-17/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://stormvirux.github.io/publication/ms-17/</guid><description/></item></channel></rss>
